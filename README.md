@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 In This Project , after click on the login button , it will redirect to [Login Page] . I used  
 this api [https://fakestoreapi.com/auth/login] for fake authentication . It always have
-email:[mor_2314]  and password:[83r5^_] for logged in . After that it will redirect to [infinite-scrooling-page].
+email=`mor_2314`  and password=`83r5^_` for logged in . After that it will redirect to [infinite-scrooling-page].
 
 ### `npm test`
 
