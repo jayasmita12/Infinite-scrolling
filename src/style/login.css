@@ -1,0 +1,29 @@
+.login-div{
+    width:40%;
+    margin: auto;
+    margin-top: 60px;
+    line-height: 50px;
+}
+.login-heading{
+    margin-bottom: 20px;
+    color:teal
+}
+.login-btn{
+    margin-top: 20px;
+    width:100%;
+    background-color: teal;
+}
+@media screen and (max-width:1000px) and (min-width:450px) {
+    .login-div{
+        width:80%
+    }
+}
+@media screen and (max-width:450px) and (min-width:300px) {
+    .login-div{
+        width:74%
+    }
+}
+.error{
+    text-align: center;
+    color:red
+}
